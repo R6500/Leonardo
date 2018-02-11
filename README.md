@@ -21,3 +21,9 @@ Code to generate fast PWM signals. Described in:
 
 http://r6500.blogspot.com.es/2014/12/fast-pwm-on-arduino-leonardo.html
 
+
+**FastAdcTest.ino**
+
+Code to reduce ADC conversion time. Described in:
+
+http://r6500.blogspot.com.es/2015/01/fast-adc-on-arduino-leonardo.html
